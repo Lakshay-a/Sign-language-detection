@@ -10,8 +10,12 @@ This project is aimed at detecting American Sign Language (ASL) alphabets in rea
 ## Features
 
 - Real-time ASL alphabet detection using a live camera.
+- 
 <img width="960" alt="tinywow_Screenshot 2024-01-26 at 3 22 32 AM_46095474" src="https://github.com/Lakshay-a/Sign-language-detection/assets/97395338/50764fa5-d977-461d-b87e-63eeca746c61">
-<img width="960" alt="tinywow_Screenshot 2024-01-26 at 3 22 32 AM_46095474" src="https://github.com/Lakshay-a/Sign-language-detection/assets/97395338/50764fa5-d977-461d-b87e-63eeca746c61](https://github.com/Lakshay-a/Sign-language-detection/assets/97395338/1865116a-7016-4117-890b-5e570789a87a">
+
+<img width="960" alt="tinywow_Screenshot 2024-01-26 at 3 22 32 AM_46095476" src="https://github.com/Lakshay-a/Sign-language-detection/assets/97395338/542ff418-269c-4d46-9bcf-aec0bae87dec">
+
+
 
 
 
