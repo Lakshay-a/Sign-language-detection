@@ -11,8 +11,8 @@ This project is aimed at detecting American Sign Language (ASL) alphabets in rea
 
 - Real-time ASL alphabet detection using a live camera.
 <img width="960" alt="tinywow_Screenshot 2024-01-26 at 3 22 32 AM_46095474" src="https://github.com/Lakshay-a/Sign-language-detection/assets/97395338/50764fa5-d977-461d-b87e-63eeca746c61">
-![Screenshot 2024-01-26 at 3 24 36 AM copy](https://github.com/Lakshay-a/Sign-language-detection/assets/97395338/ac71f885-aabc-49d0-bf05-15c076fec576)
-![Screenshot 2024-01-26 at 3 22 16 AM copy](https://github.com/Lakshay-a/Sign-language-detection/assets/97395338/a91c7d91-687f-424d-bcac-9f582f4a75bf)
+![Screenshot 2024-01-26 at 3 24 36 AM copy](https://github.com/Lakshay-a/Sign-language-detection/assets/97395338/74bb6177-1f54-44c0-862f-95e19da14b04)
+
 
 - Hand detection using MediaPipe for accurate region of interest extraction.
 - Random Forest classifier for predicting ASL alphabet signs.
