@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is aimed at detecting American Sign Language (ASL) alphabets in real-time using computer vision. The system utilizes OpenCV for image processing, MediaPipe for hand detection, and a Random Forest classifier from scikit-learn for alphabet recognition.
+This project is aimed to detect American Sign Language (ASL) alphabets in real-time using computer vision. The system utilizes OpenCV for image processing, MediaPipe for hand detection, and a Random Forest classifier from scikit-learn for alphabet recognition.
 ![1-1](https://github.com/Lakshay-a/Sign-language-detection/assets/97395338/d5391cc2-40ec-4116-908f-4f2117565110)
 <br>
 *Image Source:(https://takelessons.com/blog/american-sign-language-letters-tips-for-beginners)*
